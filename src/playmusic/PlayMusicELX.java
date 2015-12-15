@@ -23,6 +23,12 @@ public class PlayMusicELX extends UiAutomatorTestCase {
 																		// the
 																		// loopnumber
 
+
+
+
+
+			//test the github 
+
 			int temp2 = loopCount + 1;
 			System.out.println("the total number of loops is: " + loopTotal);
 			System.out.println("the loop is: " + temp2);
